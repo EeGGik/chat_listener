@@ -1,0 +1,8 @@
+.idea
+.vscode
+.env
+.env.dev
+.flake8
+venv
+__pycache__/
+.pytest_cache/
